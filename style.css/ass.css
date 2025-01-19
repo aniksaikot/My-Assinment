@@ -141,6 +141,7 @@ nav button:hover .btn {
     border: none;
 }
 
+/* Button style */
 .btn-l {
     padding-top: 24px;
     padding-bottom: 32px;
@@ -186,4 +187,52 @@ nav button:hover .btn {
     line-height: 24px;
     letter-spacing: 0%;
     text-align: left;
+}
+
+.Dr {
+    display: flex;
+    padding: 48px;
+    margin-top: 32px;
+    margin-left: 160px;
+    margin-right: 160px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+
+}
+
+.lorem {
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 12px;
+    word-spacing: 0;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 12px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+
+
+}
+
+.july {
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.lorem1 {
+    margin-top: 4px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 12px;
 }
