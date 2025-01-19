@@ -112,6 +112,78 @@ nav button:hover .btn {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
+/* Background style color */
+
 .sky {
     background: rgba(84, 144, 245, 0.2);
+}
+
+.green {
+    background: rgb(198, 228, 214);
+}
+
+.yellow {
+    background: rgb(247, 235, 207);
+
+}
+
+
+.btn-p {
+    padding-top: 24px;
+    padding-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 48;
+    padding: 11px 20px 11px 20px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(84, 144, 245);
+    border: none;
+}
+
+.btn-l {
+    padding-top: 24px;
+    padding-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 48;
+    padding: 11px 20px 11px 20px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(9, 161, 92);
+    border: none;
+
+}
+
+.btn-yellow {
+    padding-top: 24px;
+    padding-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 48;
+    padding: 11px 20px 11px 20px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 194, 57);
+    border: none;
+}
+
+.h-edit {
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.v-edit {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 }
