@@ -374,3 +374,47 @@ nav button:hover .btn {
     line-height: 24px;
     text-align: center;
 }
+
+.ammount-box-container {
+    display: flex;
+    justify-content: center;
+}
+
+.ammount-box {
+
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin: 0px 24px;
+    padding: 40px;
+    width: 240px;
+    height: 28px;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(14, 14, 14, 0.8);
+    gap: 24px;
+}
+
+.ammo {
+    background-color: rgb(198, 228, 214);
+}
+
+.donate-btn {
+    margin: 32px 0px;
+    padding: 20px 40px 20px 40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+    padding: 20px 40px;
+    margin: 32px auto;
+    height: 64px;
+    width: 100%;
+    border: none;
+
+}
